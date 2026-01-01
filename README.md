@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 Cybersecurity Certified professional with strong foundations in network administration and system security. Experienced in monitoring network traffic, identifying vulnerabilities, managing users and permissions, and maintaining secure IT infrastructure. Motivated to support organizational security operations and continuously improve defensive capabilities.
 
 
@@ -24,4 +25,8 @@ Cybersecurity Certified professional with strong foundations in network administ
 ---
 [![](https://visitcount.itsvg.in/api?id=kumailahmedkakarr&icon=0&color=0)](https://visitcount.itsvg.in)
 
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kumailahmedkakarr) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kumailahmedkakarr) 
+
+  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
