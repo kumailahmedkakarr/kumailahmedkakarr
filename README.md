@@ -1,4 +1,4 @@
-# 💫 Hi There:
+## Hi there 👋
 Cybersecurity Certified professional with strong foundations in network administration and system security. Experienced in monitoring network traffic, identifying vulnerabilities, managing users and permissions, and maintaining secure IT infrastructure. Motivated to support organizational security operations and continuously improve defensive capabilities.
 
 
